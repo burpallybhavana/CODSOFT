@@ -1,27 +1,26 @@
-# Calculator Application 
+# GUI To-Do List Application
 
-This is a simple calculator application built using Python.
-It performs basic arithmetic operations such as addition, subtraction, multiplication and division.
-
-## Features:
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Menu-based user interaction
-- Handles division by zero errors
-
-## Technologies Used
-
-- Python
+# Project Overview
+This is a **GUI-based To-Do List application** developed using **Python and Tkinter**.  
+The application helps users manage daily tasks efficiently by allowing them to add tasks, categorize them, mark them as completed, unmark completed tasks, and delete tasks.
 
 
-## How to Run
+# Features
+- Graphical User Interface (GUI) using Tkinter.
+- Add tasks with categories (Work, Personal, Project, Study, Others).
+- Delete selected tasks.
+- Mark tasks as completed.
+- Unmark completed tasks.
+- Prevent duplicate task entries.
+- Automatic task saving using a text file.
+- Tasks are reloaded when the application restarts.
+- Modular code structure for better readability and maintenance.
 
-1. Make sure Python is installed.
-2. Open terminal or command prompt.
-3. Navigate to the project folder.
-4. Run the program using:
-   python calculator.py
+
+
+# Technologies Used
+- Python 3.
+- Tkinter (GUI library).
+- File handling ('tasks.txt').
+- 'datetime' module.
 

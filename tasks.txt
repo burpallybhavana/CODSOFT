@@ -1,0 +1,5 @@
+[Study] Practice modulus & Tkinter topics
+[Completed] [Personal] Meditation
+[Completed] [Project] Complete To-do-list Project
+[Work] Add All Tasks to GitHub
+[Others] Water the plants
